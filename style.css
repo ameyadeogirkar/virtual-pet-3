@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0f3854;
+  background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+  background-size: 100%;
+}
+canvas{
+  border: 8px solid rgb(114, 207, 207);
+  margin-top:100px;
+  margin-left: 300px;
+}
